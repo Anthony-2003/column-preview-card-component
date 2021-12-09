@@ -198,3 +198,12 @@
         margin-left: 15%;
     }
 }
+
+/*-------------------------------320px----------------------------*/
+
+@media (max-width:320px){
+    .column__container {
+        padding: 30rem 0;
+    }
+}
+
